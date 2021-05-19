@@ -23,7 +23,7 @@ We are planning to use features such as # entries and # exits by zip code, day a
 
 # If modeling, what will you predict as your target?
 
-We will be using a linear model to predict the volume of MTA users in low income communities by station, days and hours vs other stations in NY that are not low income.
+We won't be modelling our data on this first phase of the project. Instead, we will be using our data to show some graphics and get initial findings. 
 
 # MVP Goal:
 
