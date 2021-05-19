@@ -15,7 +15,7 @@ Low income population: we will decrease the mortality rate on low income communi
 # What dataset(s) do you plan to use, and how will you obtain the data?
 
 To do this, you will take advantage of free, accessible data about the patterns of transit traffic in New York City: MTA turnstile data.
-http://web.mta.info/developers/turnstile.html
+http://web.mta.info/developers/turnstile.html. For this initial phase, we will consider 12 weeks of the data of March, April and May 2021.
 
 # What characteristics/features do you expect to work with?
 
