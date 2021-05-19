@@ -19,7 +19,7 @@ http://web.mta.info/developers/turnstile.html
 
 # What characteristics/features do you expect to work with?
 
-We are planning to use features such as # entries and # exits by zip code, day and hour in order to identify de bussiest stations to set the Vaccination Points.
+We are planning to use features such as # entries and # exits by zip code, day and hour in order to identify the bussiest stations (dyas and hours) to set the Vaccination Points more effectively.
 
 # If modeling, what will you predict as your target?
 
